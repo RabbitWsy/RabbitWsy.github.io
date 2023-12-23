@@ -4,19 +4,38 @@
   
     
     <entry>
+      <title>cat</title>
+      <link href="/posts/9e5e43a8.html"/>
+      <url>/posts/9e5e43a8.html</url>
+      
+        <content type="html"><![CDATA[<p>I like cat!</p><p><img src="/9fa301e086474d2b871a90ad7dfc227b.jpg" alt="9fa301e086474d2b871a90ad7dfc227b"><img src="/posts/9e5e43a8/67fcbfe3dae64d87953b7f93fb3eabe9.png" alt="67fcbfe3dae64d87953b7f93fb3eabe9"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> diary </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>start</title>
       <link href="/posts/9f79558f.html"/>
       <url>/posts/9f79558f.html</url>
       
-        <content type="html"><![CDATA[<h1 id="hello"><a href="#hello" class="headerlink" title="hello"></a>hello</h1><p>this is the first blog！</p><p><img src="/start.assets/fid17838_trid16101.jpg" alt="fid17838_trid16101"></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="hello"><a href="#hello" class="headerlink" title="hello"></a>hello</h1><p>this is the first blog！</p><p><img src="/posts/9f79558f/fid17838_trid16101.jpg" alt="fid17838_trid16101"></p><p><img src="/posts/9f79558f/40871253707f474da91b59c0b3e775ad.jpg" alt="40871253707f474da91b59c0b3e775ad"></p>]]></content>
       
       
+      <categories>
+          
+          <category> diary </category>
+          
+      </categories>
       
-        <tags>
-            
-            <tag> learn </tag>
-            
-        </tags>
       
     </entry>
     
