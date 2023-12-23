@@ -47,7 +47,7 @@ $(document).ready(function() {
         menuIcon.addClass("active");
       } else {
         menu.hide();
-        nav.hide();
+        nav.show();
         menuIcon.removeClass("active");
       }
       return false;
@@ -58,7 +58,7 @@ $(document).ready(function() {
      */
     if (menu.length) {
       $(window).on("scroll", function() {
-        var topDistance = menu.offset().top;
+        var topDistance = window.pageYOffset;
 
         // hide only the navigation links on desktop
         if (!nav.is(":visible") && (topDistance < 50 || window.scrollY === 0)) {
